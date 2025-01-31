@@ -1,0 +1,3 @@
+﻿
+
+Player.Current.Coins++;

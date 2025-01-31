@@ -1,2 +1,2 @@
-# super-auto-pets
-Desafio C# - Super Auto Pets
+# super-auto-machines
+Desafio C# - Super Auto Machines
